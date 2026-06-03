@@ -2,4 +2,8 @@ Hello from Dev Branch
 uma yadav 
 This line came from dev branch
 Pull Request Practice
+<<<<<<< HEAD
 Hello from MAIN branch
+
+Hello from DEV branch
+
